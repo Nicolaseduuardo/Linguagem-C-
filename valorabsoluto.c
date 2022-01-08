@@ -12,7 +12,7 @@ void main(){
   scanf("%d", &nota1);
  printf("Digite a segunda nota:");
   scanf("%d", &nota2);
-  printf("A diferença entre os dois é: %d", abs(nota1 - nota2) );
+  printf("A diferenÃ§a entre os dois Ã©: %d", abs(nota1 - nota2) );
 
 
 
